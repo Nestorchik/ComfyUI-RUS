@@ -12,21 +12,29 @@
 
 Фактически, для установки и работы, вам потребуется только три bat-файла.
 
+---
+
 Для сборки "на лету" используются только git-версии "ComfyUI" и всех остальных компонентов.
 
 Для установки системмы требуется установленный локально GIT (а PATH) и Python "3.10"
 
-Git можно скачать тут: https://git.github.io/git-scm.com/download/win
+---
 
-Python 3.10 скачать тут: https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+Git можно скачать тут: **https://git.github.io/git-scm.com/download/win**
+
+Python 3.10 скачать тут: **https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe**
+
+---
 
 Создайте пустой каталог (к примеру "c:\1") с скопируйте туда следующие файлы из архива:
 
-- install_comfyui.bat
-- run_comfyui.bat
-- update_comfyui.bat
+- **install_comfyui.bat**
+- **run_comfyui.bat**
+- **update_comfyui.bat**
 
-Запуск инсталляции дистрибутива "ComfyUI" производится файлом "install_comfyui.bat".
+Запуск инсталляции дистрибутива "ComfyUI" производится файлом "**install_comfyui.bat**".
+
+---
 
 Перед запуском установите значение переменной "python=c:\p31\python.exe" в файле "install_comfyui.bat" на реальное расположение питона 3.10 версии у вас!
 
