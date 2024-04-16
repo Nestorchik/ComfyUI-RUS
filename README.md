@@ -56,7 +56,9 @@ Python 3.10 скачать тут: **https://www.python.org/ftp/python/3.10.0/py
 
 ---
 
-Информация по проекту "**NStor-ComfyUI-Translatio**n"
+Информация по проекту "**NStor-ComfyUI-Translation**"
+
+_(уже включен в этот дистриьутив)_
 
 Проект русской локализации "**ComfyUI**"
 
