@@ -26,6 +26,8 @@ Python 3.10 скачать тут: **https://www.python.org/ftp/python/3.10.0/py
 
 ---
 
+<a href="https://github.com/Nestorchik/ComfyUI-RUS/releases/download/ComfyUI_RUS/ComfyUI-RUS_bat_files.zip">**>>> Загрузите архив с тремя bat-файлами отсюда <<<**</a>
+
 Создайте пустой каталог (к примеру "c:\1") с скопируйте туда следующие файлы из архива:
 
 - **install_comfyui.bat**
