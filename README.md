@@ -34,7 +34,7 @@ Python 3.10 скачать тут: **https://www.python.org/ftp/python/3.10.0/py
 - **run_comfyui.bat**
 - **update_comfyui.bat**
 
-Запуск инсталляции дистрибутива "ComfyUI" производится файлом "**install_comfyui.bat**".
+Запуск инсталляции дистрибутива "ComfyUI" производится файлом <ins>"**install_comfyui.bat**"</ins>.
 
 ---
 
