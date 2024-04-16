@@ -52,7 +52,7 @@ Python 3.10 скачать тут: **https://www.python.org/ftp/python/3.10.0/py
 
 Запуск браузера после старта сервера: **http://127.0.0.1:8188**
 
-Запуск установленного интерфейса: "**run_comfyui.bat**"
+Запуск установленного интерфейса: <span style="color:yellow">*run_comfyui.bat*</span>
 
 ---
 
