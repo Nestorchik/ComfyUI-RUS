@@ -70,7 +70,7 @@ echo ==================================
 echo
 echo Start ComfyUI as http://127.0.0.1:8188
 echo
-%scripts%\python %comfy%\main.py
+%scripts%\python %comfy%\main.py --auto-launch
 pause
 
 
