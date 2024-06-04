@@ -4,12 +4,12 @@ REM "ComfyUI" + "ComfyUI-Manager" + "Crystools" + "mbt" + "RUS локализа�
 REM с "torch-cuda" для NVIDIA видеокарт
 cls
 echo Make sure that GIT is in the PATH
-echo Change "python=c:\p31\python.exe" to the actual location of python 3.10 in the system.
+echo Change "python=c:\p311\python.exe" to the actual location of python 3.11 in the system.
 REM You mush have installed GIT with in PATH
 REM В системе должен быть установлен GIT в PATH
-REM Set here resl psth to you Python 3.10
-REM Установи здесь реальный путь к питону 3.10
-set python=c:\p31\python.exe
+REM Set here resl psth to you Python 3.11
+REM Установи здесь реальный путь к питону 3.11
+set python=c:\p311\python.exe
 set startDir=%CD%
 set comfy=%startDir%\ComfyUI
 set venv=%comfy%\venv
@@ -32,7 +32,7 @@ echo Uninstalling CPU python packages
 %scripts%\python -m pip uninstall torch -y
 echo ======================================
 echo Installing GPU-cuda TORCH python packages
-%scripts%\python -m pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu121
+%scripts%\python -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 echo ======================================
 echo Installing ComfyUI-Manager custom_node
 cd %comfy%\custom_nodes
